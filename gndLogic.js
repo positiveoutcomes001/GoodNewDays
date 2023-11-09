@@ -5,6 +5,15 @@ var control = "You don't have to control your thoughts; you just have to stop le
 var confidence = "Confidence is not believing that everything will be ok. Its understanding that whatever happens, you will be ok. "
 //Depression
 var allBadThings = "All bad things come to an end."
+var deserve = "You deserve to be happy."
+var troubles = "Your troubles have not come to stay, they have come to pass." 
+var closer = "Happiness is often closer than you think."
+var stronger = "Be stronger than your sadness."
+var brain = "There is hope, even when your brain tells you there isn’t."
+var darkness = "No darkness lasts forever. And even there, there are stars."
+var lies = "Depression lies. It tells you you’ve always felt this way, and you always will. But you haven’t, and you won’t."
+var begins = "Life begins on the other side of despair."
+var human = "You are allowed to feel messed up and inside out. It doesn’t mean you’re defective. It just means you’re human."
 //Domestic Abuse 
 var trapped = "It is easy to believe you will be trapped forever. You are not doomed to suffer. You can be safe and happy. "
 //Loneliness 
@@ -30,7 +39,7 @@ var better = "Stay and give yourself a chance to make things better."
 //Arrays
 
 var anxiety = [control, confidence]
-var depression = [allBadThings]
+var depression = [allBadThings, deserve, troubles, closer, stronger, brain, darkness, lies, begins, human]
 var domesticAbuse = [trapped]
 var loneliness = [value, connected, reconnected, needToBeAlone, abnormal, innate, season, worst, walls, unloneliest]
 var lowSelfEsteem = [become]
