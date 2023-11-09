@@ -25,6 +25,15 @@ var begins = "Life begins on the other side of despair."
 var human = "You are allowed to feel messed up and inside out. It doesn’t mean you’re defective. It just means you’re human."
 //Domestic Abuse 
 var trapped = "It is easy to believe you will be trapped forever. You are not doomed to suffer. You can be safe and happy. "
+var reachOut = "You are not alone in your journey. Reach out and let the collective strength of survivors empower and uplift you."
+var incredibleLife = "Leaving may be challenging, but staying in an abusive relationship robs you of the opportunity to discover the incredible life that awaits you."
+var immenseBravery = "It takes immense bravery to leave the familiar, even if it is toxic. But remember, on the other side of fear lies a world of possibilities."
+var freeFromFear = "You have the right to live a life free from fear and abuse."
+var notBroken = "You are not broken; you are a masterpiece in the making. Let the healing process shape you into the person you were always meant to be."
+var selfEmpowerment = "Healing is an act of self-empowerment."
+var safetyAboveAllElse = "Your safety and well-being matter above all else."
+var notAlone = "Remember, you are not alone. Reach out for support."
+var feelAshmed = "No survivor should ever feel ashamed for the actions of their abuser."
 //Loneliness 
 var value = "Your value is not based on others inability to see it."
 var connected = "We all feel alone sometimes, and in this we are connected."
@@ -75,6 +84,18 @@ var aLifeWorthLiving = "You can live a life worth living but you must not give u
 var couldBecome = "It's not about who you are, it’s about who you could become, stay!"
 var restOfTheStory = "It is the rest of your story that matters, not the beginning."
 
+//Bereavement
+var grief = "Grief is the price we pay for love."
+var treasuredMemory = "When someone you love becomes a memory, the memory becomes a treasure."
+var depopulated = "Sometimes, only one person is missing, and the whole world seems depopulated."
+var justLove = "Grief is just love with no place to go."
+var partOfUs = "What we once enjoyed and deeply loved we can never lose, for all that we love deeply becomes a part of us."
+var capable = "Only people who are capable of loving strongly can also suffer great sorrow, but this same necessity of loving serves to counteract their grief and heals them."
+var ocean = "Grief is like the ocean; it comes on waves ebbing and flowing. Sometimes the water is calm, and sometimes it is overwhelming. All we can do is learn to swim."
+var painPasses = "The pain passes, but the beauty remains."
+var noSuffering = "Absence and death are the same. Only that in death there is no suffering."
+var optionalSuffering = "Pain is certain, suffering is optional."
+
 
 //Arrays
 
@@ -85,6 +106,7 @@ var loneliness = [value, connected, reconnected, needToBeAlone, abnormal, innate
 var lowSelfEsteem = [become, compare, believeInYourself, unworthy, imagineTheWorst, handBrake, truePotential, beOk, bend]
 var selfHarm = [healing, kindness,selfCompassion, scars, empathyNotJudgement, punishment, necessaryToGrow, acceptYourself, accepting, youYourself, lovingYourself, rewrite]
 var suicide = [better, toGive, flee, mistake, possibility, sign, onceAndAThousand, purpose, thoseAroundYou, aLifeWorthLiving, couldBecome, restOfTheStory]
+var bereavement = [grief, treasuredMemory, depopulated, justLove, partOfUs, capable, ocean, painPasses, noSuffering, optionalSuffering]
 
 //Display Functions 
 //Anxiety 
