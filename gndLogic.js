@@ -35,6 +35,18 @@ var healing = "Healing is not a linear process."
 var kindness = "The world will not always be kind to you, so be kind to yourself. "
 //Suicide 
 var better = "Stay and give yourself a chance to make things better."
+var toGive = "You have something to give."
+var flee = "You're meant to live, not flee."
+var mistake = "There is no person in this whole world who is a mistake, no matter how different that person may seem."
+var possibility = "Suicide doesn’t end the chances of life getting worse, it eliminates the possibility of it ever getting any better."
+var sign = "If you’re looking for a sign not to kill yourself, this is it."
+var onceAndAThousand = "The person who completes suicide, dies once. Those left behind die a thousand deaths, trying to relive those terrible moments and understand… why?"
+var purpose = "Place your hand over your heart, can you feel it? That is called purpose. You’re alive for a reason so don’t ever give up."
+var thoseAroundYou = "If you can live for yourself, live for those around you."
+var aLifeWorthLiving = "You can live a life worth living but you must not give up."
+var couldBecome = "It's not about who you are, it’s about who you could become, stay!"
+var restOfTheStory = "It is the rest of your story that matters, not the beginning."
+
 
 //Arrays
 
@@ -44,7 +56,7 @@ var domesticAbuse = [trapped]
 var loneliness = [value, connected, reconnected, needToBeAlone, abnormal, innate, season, worst, walls, unloneliest]
 var lowSelfEsteem = [become]
 var selfHarm = [healing, kindness]
-var suicide = [better]
+var suicide = [better, toGive, flee, mistake, possibility, sign, onceAndAThousand, purpose, thoseAroundYou, aLifeWorthLiving, couldBecome, restOfTheStory]
 
 //Display Functions 
 //Anxiety 
