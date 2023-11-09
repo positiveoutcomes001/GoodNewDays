@@ -2,7 +2,16 @@
 
 //Anxiety 
 var control = "You don't have to control your thoughts; you just have to stop letting them control you." 
-var confidence = "Confidence is not believing that everything will be ok. Its understanding that whatever happens, you will be ok. "
+var confidence = "Confidence is not believing that everything will be ok. Its understanding that whatever happens, you will be ok."
+var regrets = "Regrets won't change yesterday, anxiety won't change tomorrow."
+var ok = "You will be ok."
+var thoughtControl = "You don't have to control your thoughts; you just have to stop letting them control you."
+var beyondIt = "The only way to deal with your anxiety is to embrace it, understand it, and then move beyond it."
+var todayAndTomorrow = "Today is the tomorrow you worried about yesterday."
+var weighedDown = "Not everything that weighs you down is yours to carry."
+var dizziness = "Anxiety is the dizziness of freedom."
+var bigShadow = "Worry often gives a small thing a big shadow."
+var permanent = "Nothing is permanent in this wicked world—not even our troubles."
 //Depression
 var allBadThings = "All bad things come to an end."
 var deserve = "You deserve to be happy."
@@ -62,7 +71,7 @@ var restOfTheStory = "It is the rest of your story that matters, not the beginni
 
 //Arrays
 
-var anxiety = [control, confidence]
+var anxiety = [control, confidence, regrets, ok, thoughtControl, beyondIt, todayAndTomorrow, weighedDown, dizziness, bigShadow, permanent]
 var depression = [allBadThings, deserve, troubles, closer, stronger, brain, darkness, lies, begins, human]
 var domesticAbuse = [trapped]
 var loneliness = [value, connected, reconnected, needToBeAlone, abnormal, innate, season, worst, walls, unloneliest]
