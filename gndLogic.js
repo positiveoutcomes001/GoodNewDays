@@ -32,7 +32,19 @@ var become = "It is not about what you are, it is about what you can become."
 
 //Self-harm 
 var healing = "Healing is not a linear process."
-var kindness = "The world will not always be kind to you, so be kind to yourself. "
+var kindness = "The world will not always be kind to you, so be kind to yourself."
+var selfCompassion = "Healing begins with self-compassion and self-love."
+var scars = "Your scars do not define you, they are part of your journey but not the destination."
+var empathyNotJudgement = "Give yourself empathy not judgment."
+var punishment = "You do not deserve the punishment you put on yourself."
+var necessaryToGrow = "You were never required to be perfect, making mistakes aren’t only inevitable, they are necessary to grow."
+var accepting = "Criticizing yourself hasn’t worked, maybe try accepting yourself."
+var acceptYourself = "Be courageous enough to accept yourself for who you are."
+var youYourself = "You, yourself, as much as anybody in the entire universe, deserve your love and affection."
+var lovingYourself = "Loving yourself…does not mean being self-absorbed or narcissistic, or disregarding others. Rather it means welcoming yourself as the most honored guest in your own heart, a guest worthy of respect, a lovable companion. "
+var rewrite = "The wounds of the past may scar, but they do not define your future. Embrace the power of healing and rewrite your story."
+
+
 //Suicide 
 var better = "Stay and give yourself a chance to make things better."
 var toGive = "You have something to give."
@@ -55,7 +67,7 @@ var depression = [allBadThings, deserve, troubles, closer, stronger, brain, dark
 var domesticAbuse = [trapped]
 var loneliness = [value, connected, reconnected, needToBeAlone, abnormal, innate, season, worst, walls, unloneliest]
 var lowSelfEsteem = [become]
-var selfHarm = [healing, kindness]
+var selfHarm = [healing, kindness,selfCompassion, scars, empathyNotJudgement, punishment, necessaryToGrow, acceptYourself, accepting, youYourself, lovingYourself, rewrite]
 var suicide = [better, toGive, flee, mistake, possibility, sign, onceAndAThousand, purpose, thoseAroundYou, aLifeWorthLiving, couldBecome, restOfTheStory]
 
 //Display Functions 
