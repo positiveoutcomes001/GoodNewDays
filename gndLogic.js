@@ -38,7 +38,14 @@ var walls = "People are lonely because they build walls instead of bridges."
 var unloneliest = " Loneliness is the unloneliest feeling in the world, as everyone has experienced it."
 //Low Self-esteem
 var become = "It is not about what you are, it is about what you can become."
-
+var compare = "Do not compare yourself to others; you are unique and valuable just as you are."
+var believeInYourself = "Believe in yourself and others will too."
+var unworthy = "We’ve been told and taught to believe that there are things about us that make us unworthy."
+var imagineTheWorst = "Low self-esteem involves imagining the worst that other people can think about you."
+var handBrake = "Low self-esteem is like driving through life with your hand-brake on."
+var truePotential = "You have low self-esteem because you do not see your true potential."
+var beOk = "Confidence isn’t believing that everything will be ok, it's knowing that whatever happens, you will be ok."
+var bend = "Never bend your head. Always hold it high. Look the world straight in the eye."
 //Self-harm 
 var healing = "Healing is not a linear process."
 var kindness = "The world will not always be kind to you, so be kind to yourself."
@@ -75,7 +82,7 @@ var anxiety = [control, confidence, regrets, ok, thoughtControl, beyondIt, today
 var depression = [allBadThings, deserve, troubles, closer, stronger, brain, darkness, lies, begins, human]
 var domesticAbuse = [trapped]
 var loneliness = [value, connected, reconnected, needToBeAlone, abnormal, innate, season, worst, walls, unloneliest]
-var lowSelfEsteem = [become]
+var lowSelfEsteem = [become, compare, believeInYourself, unworthy, imagineTheWorst, handBrake, truePotential, beOk, bend]
 var selfHarm = [healing, kindness,selfCompassion, scars, empathyNotJudgement, punishment, necessaryToGrow, acceptYourself, accepting, youYourself, lovingYourself, rewrite]
 var suicide = [better, toGive, flee, mistake, possibility, sign, onceAndAThousand, purpose, thoseAroundYou, aLifeWorthLiving, couldBecome, restOfTheStory]
 
