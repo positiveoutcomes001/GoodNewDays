@@ -101,7 +101,7 @@ var optionalSuffering = "Pain is certain, suffering is optional."
 
 var anxiety = [control, confidence, regrets, ok, thoughtControl, beyondIt, todayAndTomorrow, weighedDown, dizziness, bigShadow, permanent]
 var depression = [allBadThings, deserve, troubles, closer, stronger, brain, darkness, lies, begins, human]
-var domesticAbuse = [trapped]
+var domesticAbuse = [trapped, reachOut, incredibleLife,immenseBravery,freeFromFear, notBroken, selfEmpowerment, safetyAboveAllElse,notAlone, feelAshmed]
 var loneliness = [value, connected, reconnected, needToBeAlone, abnormal, innate, season, worst, walls, unloneliest]
 var lowSelfEsteem = [become, compare, believeInYourself, unworthy, imagineTheWorst, handBrake, truePotential, beOk, bend]
 var selfHarm = [healing, kindness,selfCompassion, scars, empathyNotJudgement, punishment, necessaryToGrow, acceptYourself, accepting, youYourself, lovingYourself, rewrite]
